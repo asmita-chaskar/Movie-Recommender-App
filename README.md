@@ -5,6 +5,12 @@ This project consists of a Movie Recommender System built using Streamlit. The a
 
 ## Getting Started
 
+### Dataset Overview
+
+- **Dataset Source:** [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+- **Description:** This dataset provides comprehensive information about movies, making it suitable for building movie recommendation systems.
+
+
 ### Prerequisites
 
 - Python 3.6 or higher
